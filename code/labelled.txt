@@ -437,7 +437,7 @@
 435      53                             DPR  False  False    True
 436      53                             UAE  False  False    True
 437      53                         KyivNow   True  False   False
-438      52اوکراین_تجربه_اعتماد_به_آمریکا                False  False    True
+438      52 اوکراین_تجربه_اعتماد_به_آمریکا                False  False    True
 439      52                      Zaporozhye  False  False    True
 440      52                            Modi  False  False    True
 441      52                           Assad  False  False    True
