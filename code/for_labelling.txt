@@ -97,7 +97,7 @@
 95      334                              UN  False  False    True
 96      329                    StPetersburg  False  False    True
 97      325                StandWithUkriane   True  False   False
-98      324                       ウクライナ      X      X       X
+98      324                           ウクライナ      X      X       X
 99      324                         Donbass  False  False    True
 100     317                    UkraineKrieg  False  False    True
 101     310                           روسيا      X      X       X
@@ -228,7 +228,7 @@
 226     118                          United  False  False    True
 227     116                            Azov      X      X       X
 228     116               UkraineWillResist   True  False   False
-229     114                         戦争反対      X      X       X
+229     114                            戦争反対      X      X       X
 230     113                    ProtectUASky   True  False   False
 231     113             StandingWithUkraine   True  False   False
 232     111                       Lithuania  False  False    True
@@ -236,7 +236,7 @@
 234     110                         Luhansk  False  False    True
 235     109                           biden      X      X       X
 236     107                             ww3      X      X       X
-237     105        الحرب_الروسية_الاوكراني      X      X       X
+237     105        الحرب_الروسية_الاوكرانية      X      X       X
 238     104                         ukraina      X      X       X
 239     103                       Venezuela  False  False    True
 240     102                           Odesa  False  False    True
@@ -283,7 +283,7 @@
 281      85                          Scholz      X      X       X
 282      85                        Starlink  False  False    True
 283      84                     PutinsKrieg      X      X       X
-284      84                 روسيا_اوكرانيا      X      X       X
+284      84                  روسيا_اوكرانيا      X      X       X
 285      83                    BorisJohnson  False  False    True
 286      83               UcraniaBajoAtaque      X      X       X
 287      83                   UkrainianArmy  False  False    True
@@ -299,7 +299,7 @@
 297      81              CloseTheSkyUkraine      X      X       X
 298      81                   StopPutinsWar      X      X       X
 299      80                        Facebook      X      X       X
-300      80                           ロシア      X      X       X
+300      80                             ロシア      X      X       X
 301      80                        Ukranian  False  False    True
 302      79              VolodymyrZelenskyy      X      X       X
 303      78                          RuSSia      X      X       X
@@ -320,7 +320,7 @@
 318      75                             ONU      X      X       X
 319      75                    RacingUnited  False  False    True
 320      75                             Oil  False  False    True
-321      75                           乌克兰      X      X       X
+321      75                             乌克兰      X      X       X
 322      74                           russe      X      X       X
 323      74                          Ukrain      X      X       X
 324      74                           FLASH  False  False    True
@@ -348,19 +348,19 @@
 346      69               PrayingForUkraine      X      X       X
 347      69                           Czech  False  False    True
 348      68                       SONDAKİKA      X      X       X
-349      68        الحرب_العالمية_الثالثة      X      X       X
+349      68          الحرب_العالمية_الثالثة      X      X       X
 350      68                           แตงโม      X      X       X
 351      68                       Chornobyl  False  False    True
 352      68                          FCKPTN      X      X       X
 353      68                        zelensky      X      X       X
 354      67                    РоссияСмотри      X      X       X
-355      67                    รัสเซียบุกยูเครน      X      X       X
-356      67                 แตงโมต้องไม่ตายฟรี      X      X       X
+355      67                รัสเซียบุกยูเครน      X      X       X
+356      67              แตงโมต้องไม่ตายฟรี      X      X       X
 357      67                         Binance      X      X       X
 358      67                    JohnsonOut46      X      X       X
 359      66                            كييف      X      X       X
 360      66                          Donbas      X      X       X
-361      66                        اوکراین      X      X       X
+361      66                         اوکراین      X      X       X
 362      66                      Mastercard      X      X       X
 363      66                       Hypocrisy      X      X       X
 364      66                       gasprices      X      X       X
@@ -406,10 +406,10 @@
 404      58                       killputin      X      X       X
 405      58                            UNGA  False  False    True
 406      58                       FuckPutin      X      X       X
-407      58                       اوكرانيا      X      X       X
+407      58                        اوكرانيا      X      X       X
 408      58                     TerroRussia      X      X       X
 409      57                   ยูเครนรัสเซีย      X      X       X
-410      57                           俄罗斯      X      X       X
+410      57                             俄罗斯      X      X       X
 411      57                            Cina      X      X       X
 412      56                 RefugeesWelcome      X      X       X
 413      56                          Indian  False  False    True
@@ -437,7 +437,7 @@
 435      53                             DPR      X      X       X
 436      53                             UAE      X      X       X
 437      53                         KyivNow      X      X       X
-438      52اوکراین_تجربه_اعتماد_به_آمریکا      X      X       X
+438      52  اوکراین_تجربه_اعتماد_به_آمریکا      X      X       X
 439      52                      Zaporozhye      X      X       X
 440      52                            Modi      X      X       X
 441      52                           Assad      X      X       X
@@ -492,7 +492,7 @@
 490      47                   guerraucraina      X      X       X
 491      47                 PeopleNotProfit      X      X       X
 492      47                        Putin100      X      X       X
-493      46        الحرب_الروسية_الأكرانية      X      X       X
+493      46         الحرب_الروسية_الأكرانية      X      X       X
 494      46                        military      X      X       X
 495      46                         новости      X      X       X
 496      46                    СлаваУкраїні      X      X       X
