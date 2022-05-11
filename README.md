@@ -38,6 +38,8 @@ Code folder also include the most important datasets:
 
 [20220502_resampled_dataset.csv](https://github.com/Yvonne27Jin/BSDS3002GP_Computational_propaganda_Ukraine/blob/main/code/20220502_resampled_dataset.csv) contains the raw data of tweets randomly sampled from the Kaggle dataset.
 
+[preprocessed_data.pkl](https://github.com/Yvonne27Jin/BSDS3002GP_Computational_propaganda_Ukraine/blob/main/code/preprocessed_data.pkl): output of processed data, with all tweet-related and user-related information, added cleaned hashtags and political stance categorisation.
+
 [labelled.txt](https://github.com/Yvonne27Jin/BSDS3002GP_Computational_propaganda_Ukraine/blob/main/code/labelled.txt) includs the final list of most frequent hashtags manually labelled for political stance.
 
 
