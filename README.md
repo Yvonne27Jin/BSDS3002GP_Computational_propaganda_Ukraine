@@ -10,11 +10,11 @@ We used the "[Ukraine Conflict Twitter Dataset](https://www.kaggle.com/datasets/
 
 In "code" file there are all the code for data processing and network analysis, and this includes:
 
-- [0_DCol.ipynb](https://github.com/Yvonne27Jin/BSDS3002GP_Computational_propaganda_Ukraine/blob/main/code/0_DCol.ipynb): Ramdom data sampling and regrouping.
+- [0_DCol.ipynb](https://github.com/Yvonne27Jin/BSDS3002GP_Computational_propaganda_Ukraine/blob/main/code/0_DCol.ipynb): Ramdom data sampling and regrouping
 - [1_DPP.ipynb](https://github.com/Yvonne27Jin/BSDS3002GP_Computational_propaganda_Ukraine/blob/main/code/1_DPP.ipynb): Data processing
-  - hashtag sorting 
-  - political stance categorisation of tweets and users 
-  - tweet text processing 
+  - Hashtag sorting 
+  - Political stance categorisation of tweets and users 
+  - Tweet text processing 
 - [2_SEDA.ipynb](https://github.com/Yvonne27Jin/BSDS3002GP_Computational_propaganda_Ukraine/blob/main/code/2_SEDA.ipynb): Simple Exploratory data analysis (EDA)
   - Discussion trend by political stance
   - Word clouds for both stances at different timeframe
@@ -22,15 +22,15 @@ In "code" file there are all the code for data processing and network analysis, 
   - Bipartite Network construction
   - Projected one-mode user network
   - Export edgelist and nodelist for Gephi visualisation
-  - node attributes: political orientation index and eigenvector centrality
+  - Node attributes: political orientation index and eigenvector centrality
 - [4_NAna.ipynb](https://github.com/Yvonne27Jin/BSDS3002GP_Computational_propaganda_Ukraine/blob/main/code/4_NAna.ipynb): Bot detection
   - Bot detection using botometer API
 - [5_bipartite_network_analysis.ipynb](https://github.com/Yvonne27Jin/BSDS3002GP_Computational_propaganda_Ukraine/blob/main/code/5_bipartite_network_analysis.ipynb): Network analysis
-  - network properties: size, density, diameter, Average shortest path length, centrality, etc.
+  - Network properties: size, density, diameter, Average shortest path length, centrality, etc.
 - [6_Propaganda.ipynb](https://github.com/Yvonne27Jin/BSDS3002GP_Computational_propaganda_Ukraine/blob/main/code/6_Propaganda.ipynb): Trend and information flow of Russia propaganda
-  - discussion trend of the following keywords by time and political stance
+  - Discussion trend of the following keywords by time and political stance
     - "special military operation"
-    - "Neo Nazis" and "fascists"
+    - "Neo-Nazis" and "fascists"
 
 ## Dataset
 
