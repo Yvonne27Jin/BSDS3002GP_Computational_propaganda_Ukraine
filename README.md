@@ -2,6 +2,8 @@
 
 # Readme
 
+![proUkraineAfter](https://github.com/user-attachments/assets/21ee5634-02e3-43e9-a44a-181f7c88cc9d)
+
 This is a course project of BSDS3002 Social computing from HKU. We aim to understand how both sides of Rassian-Ukrainian conflict used computational propaganda on twitter and how their influence and strategies differ. The complete report can be found [here](https://github.com/Yvonne27Jin/BSDS3002GP_Computational_propaganda_Ukraine/blob/main/Group%20Project%20Report.pdf).
 
 We used the "[Ukraine Conflict Twitter Dataset](https://www.kaggle.com/datasets/bwandowando/ukraine-russian-crisis-twitter-dataset-1-2-m-rows/code?select=UkraineCombinedTweetsDeduped_FEB28_part1.csv.gzip)" on Kaggle. 
